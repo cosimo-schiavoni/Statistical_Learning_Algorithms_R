@@ -9,3 +9,4 @@ is to identify the factors that most significantly influence economic developmen
 In the Repository it is possible to find:
 - The R code used for the analysis of each algorithm
 - The pdf document with the content of the project
+-  The csv file with original data downloaded by the official datasources
